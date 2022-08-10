@@ -2,6 +2,8 @@
 
 ### v1.0.x
 
+Change, change, change
+
 ##### v1.0.0 beta
 
 预览版：基本功能完成；
